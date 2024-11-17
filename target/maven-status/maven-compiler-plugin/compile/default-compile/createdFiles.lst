@@ -1,0 +1,5 @@
+ApprovalServlet.class
+com\mycompany\useraccessmanagementsystem\RequestServlet.class
+com\mycompany\useraccessmanagementsystem\LoginServlet.class
+com\mycompany\useraccessmanagementsystem\SignUpServlet.class
+com\mycompany\useraccessmanagementsystem\SoftwareServlet.class
